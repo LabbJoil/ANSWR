@@ -77,8 +77,8 @@ ANSWR
 
 
 6. код python:
-   import mysql.connector
-  import requests
+   ```import mysql.connector
+   import requests
   import datetime
   import json
   
@@ -138,5 +138,5 @@ ANSWR
       print("Данные успешно сохранены в december_2024_min_temperatures.json")
   
   if __name__ == "__main__":
-      main()
+      main()```
   
